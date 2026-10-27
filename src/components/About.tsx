@@ -1,5 +1,5 @@
 import type { CSSProperties } from 'react';
-import videoSyncro from '../assets/video-about.mp4';
+import videoSyncro from '../assets/video-about.webm';
 
 const videoWrapperStyle: CSSProperties = {
   alignSelf: 'center',

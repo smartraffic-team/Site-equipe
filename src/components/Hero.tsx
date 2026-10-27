@@ -1,5 +1,5 @@
 import type { CSSProperties } from 'react';
-import videoSyncro from '../assets/video-syncro.mp4';
+import videoSyncro from '../assets/video-syncro.webm';
 
 // Cor do fundo da seção seguinte (troque se não for branco puro)
 const FADE_RGB = '255, 255, 255';
